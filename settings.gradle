@@ -1,2 +1,3 @@
 rootProject.name = 'destryMain'
+include 'execute', 'annotation'
 
